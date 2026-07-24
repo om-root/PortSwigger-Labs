@@ -13,7 +13,7 @@ Each writeup follows a consistent format defined in [`TEMPLATE.md`](./TEMPLATE.m
 <!-- PROGRESS-TABLE-START -->
 | Category | Solved | Total | Progress |
 |---|---|---|---|
-| XSS | **1** | 22 | ░░░░░░░░░░ |
+| XSS | **2** | 22 | █░░░░░░░░░ |
 | SQL Injection | 0 | 13 | ░░░░░░░░░░ |
 | Authentication | 0 | 16 | ░░░░░░░░░░ |
 | Path Traversal | 0 | 6 | ░░░░░░░░░░ |
@@ -43,7 +43,7 @@ Each writeup follows a consistent format defined in [`TEMPLATE.md`](./TEMPLATE.m
 | Web Cache Poisoning | 0 | 9 | ░░░░░░░░░░ |
 | Essential Skills | 0 | 2 | ░░░░░░░░░░ |
 
-**Total labs solved: 1**
+**Total labs solved: 2**
 <!-- PROGRESS-TABLE-END -->
 
 ---
