@@ -1,5 +1,5 @@
 {
-  "xss": { "name": "XSS", "total": 22 },
+  "xss": { "name": "XSS", "total": 2 },
   "sqli": { "name": "SQL Injection", "total": 13 },
   "authentication": { "name": "Authentication", "total": 16 },
   "path-traversal": { "name": "Path Traversal", "total": 6 },
