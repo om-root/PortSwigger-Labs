@@ -13,34 +13,34 @@ Each writeup follows a consistent format defined in [`TEMPLATE.md`](./TEMPLATE.m
 <!-- PROGRESS-TABLE-START -->
 | Category | Solved | Total | Progress |
 |---|---|---|---|
-| XSS | **2** | 2 | ██████████ |
-| SQL Injection | 0 | 13 | ░░░░░░░░░░ |
-| Authentication | 0 | 16 | ░░░░░░░░░░ |
+| XSS | **2** | 30 | ██████████ |
+| SQL Injection | 0 | 18 | ░░░░░░░░░░ |
+| Authentication | 0 | 14 | ░░░░░░░░░░ |
 | Path Traversal | 0 | 6 | ░░░░░░░░░░ |
 | Access Control | 0 | 13 | ░░░░░░░░░░ |
-| CSRF | 0 | 10 | ░░░░░░░░░░ |
-| CORS | 0 | 6 | ░░░░░░░░░░ |
-| Clickjacking | 0 | 4 | ░░░░░░░░░░ |
-| Cross-Site WebSocket Hijacking | 0 | 5 | ░░░░░░░░░░ |
-| SSRF | 0 | 6 | ░░░░░░░░░░ |
-| XXE Injection | 0 | 8 | ░░░░░░░░░░ |
-| HTTP Request Smuggling | 0 | 12 | ░░░░░░░░░░ |
-| SSTI | 0 | 4 | ░░░░░░░░░░ |
-| Insecure Deserialization | 0 | 12 | ░░░░░░░░░░ |
-| Information Disclosure | 0 | 6 | ░░░░░░░░░░ |
-| Business Logic Vulnerabilities | 0 | 11 | ░░░░░░░░░░ |
+| CSRF | 0 | 12 | ░░░░░░░░░░ |
+| CORS | 0 | 3 | ░░░░░░░░░░ |
+| Clickjacking | 0 | 5 | ░░░░░░░░░░ |
+| Cross-Site WebSocket Hijacking | 0 | 3 | ░░░░░░░░░░ |
+| SSRF | 0 | 7 | ░░░░░░░░░░ |
+| XXE Injection | 0 | 9 | ░░░░░░░░░░ |
+| HTTP Request Smuggling | 0 | 22 | ░░░░░░░░░░ |
+| SSTI | 0 | 7 | ░░░░░░░░░░ |
+| Insecure Deserialization | 0 | 10 | ░░░░░░░░░░ |
+| Information Disclosure | 0 | 5 | ░░░░░░░░░░ |
+| Business Logic Vulnerabilities | 0 | 12 | ░░░░░░░░░░ |
 | HTTP Host Header Attacks | 0 | 7 | ░░░░░░░░░░ |
-| OAuth | 0 | 9 | ░░░░░░░░░░ |
+| OAuth | 0 | 6 | ░░░░░░░░░░ |
 | File Upload Vulnerabilities | 0 | 7 | ░░░░░░░░░░ |
-| JWT | 0 | 9 | ░░░░░░░░░░ |
+| JWT | 0 | 8 | ░░░░░░░░░░ |
 | Prototype Pollution | 0 | 10 | ░░░░░░░░░░ |
 | GraphQL API Vulnerabilities | 0 | 5 | ░░░░░░░░░░ |
 | Race Conditions | 0 | 6 | ░░░░░░░░░░ |
 | NoSQL Injection | 0 | 4 | ░░░░░░░░░░ |
 | API Testing | 0 | 5 | ░░░░░░░░░░ |
-| Web LLM Attacks | 0 | 7 | ░░░░░░░░░░ |
+| Web LLM Attacks | 0 | 8 | ░░░░░░░░░░ |
 | Web Cache Deception | 0 | 5 | ░░░░░░░░░░ |
-| Web Cache Poisoning | 0 | 9 | ░░░░░░░░░░ |
+| Web Cache Poisoning | 0 | 13 | ░░░░░░░░░░ |
 | Essential Skills | 0 | 2 | ░░░░░░░░░░ |
 
 **Total labs solved: 2**
