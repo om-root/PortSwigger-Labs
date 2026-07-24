@@ -13,7 +13,7 @@ Each writeup follows a consistent format defined in [`TEMPLATE.md`](./TEMPLATE.m
 <!-- PROGRESS-TABLE-START -->
 | Category | Solved | Total | Progress |
 |---|---|---|---|
-| XSS | **2** | 30 | ██████████ |
+| XSS | **2** | 30 | █░░░░░░░░░ |
 | SQL Injection | 0 | 18 | ░░░░░░░░░░ |
 | Authentication | 0 | 14 | ░░░░░░░░░░ |
 | Path Traversal | 0 | 6 | ░░░░░░░░░░ |
