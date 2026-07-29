@@ -14,7 +14,7 @@ Each writeup follows a consistent format defined in [`TEMPLATE.md`](./TEMPLATE.m
 | Category | Solved | Total | Progress |
 |---|---|---|---|
 | XSS | **2** | 30 | █░░░░░░░░░ |
-| SQL Injection | **2** | 18 | █░░░░░░░░░ |
+| SQL Injection | **3** | 18 | ██░░░░░░░░ |
 | Authentication | 0 | 14 | ░░░░░░░░░░ |
 | Path Traversal | 0 | 6 | ░░░░░░░░░░ |
 | Access Control | 0 | 13 | ░░░░░░░░░░ |
@@ -43,7 +43,7 @@ Each writeup follows a consistent format defined in [`TEMPLATE.md`](./TEMPLATE.m
 | Web Cache Poisoning | 0 | 13 | ░░░░░░░░░░ |
 | Essential Skills | 0 | 2 | ░░░░░░░░░░ |
 
-**Total labs solved: 4**
+**Total labs solved: 5**
 <!-- PROGRESS-TABLE-END -->
 
 ---
